@@ -28,3 +28,14 @@
 - [Conclusion](#conclusion)
 
 # Objectives
+   - Whats the Key Point?
+Head of Marketing wants to find out who the top Youtubers are in 2024 and determine which one would be the best to run a amrketing campaign throughtout the rest of the year
+   - What is the dieal solution?
+To create a dashboard that provides insights into the top UK Youtubers that include their:
+- subscriber count
+- total views
+- total videos created
+- engagement metrics
+This will inform the marketing team make the best pick of which youtubers to offer a amrkettin campaign to.
+
+## User Story
