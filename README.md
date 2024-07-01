@@ -79,3 +79,11 @@ To understand what it should contain, we need to figure out what questions we wa
 For now these are the questions we want awnsered, subject to change later.
 
 ## Dashboard mockup
+
+Some of the data visuals that may be appropriated in answering our questions include:
+1. Table
+2. Treemap
+3. Scorecards
+4. Horizontal Bar chart
+
+![Dashboard-Mockup](assets/images/dashboard_mockup.png)
