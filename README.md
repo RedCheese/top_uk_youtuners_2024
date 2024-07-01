@@ -39,6 +39,10 @@ To create a dashboard that provides insights into the top UK Youtubers that incl
 - total views
 - total videos created
 - engagement metrics
+
 This will inform the marketing team make the best pick of which youtubers to offer a amrkettin campaign to.
 
 ## User Story
+  As the Head of Marketing, I want to identify the to youtubers in the UK based on their subscription numbers, uploaded videos and views accumulated, so that I can decided which channels would be best to run a marketing campaign with to generate good ROI
+
+# Data Source
