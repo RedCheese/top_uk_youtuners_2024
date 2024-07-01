@@ -1,3 +1,30 @@
-# Data Portfolio
+# Data Portfolio: Top 10 UK Youtubers 2024
 
-This is my Data Analysis Portfolio Web Site
+# Table of Contents
+-	[Objective](#objective)
+-	[Data Source](#data-source)
+-	[Stages](#stages)
+-	[Design](#design)
+  -	[Mockup](#mockup)
+  -	[Tools](#tools)
+-	[Development](#development)
+  - [Pseudocode](#pseudocode)
+  - [Data Exploration](#data-exploration)
+  - [Data Cleaning](#data-cleaning)
+  - [Transform the Data](#transform-data)
+  - [Create the final Python Dataframe](#python-dataframe)
+- [Testing](#testing)
+  - [Data Quality Tests](#data-quality-tests)
+- [Visualization](#visualization)
+  - [Results](#results)
+  - [DAX Measures](#dax-measures)
+- [Analysis](#analysis)
+  - [Findings](#findings)
+  - [Validation](#validation)
+  - [Discovery](#discovery)
+- [Recommendations](#recommendations)
+  - [Potential ROI](#potential-roi)
+  - [Potential Coursers of Action](#potential-action)
+- [Conclusion](#conclusion)
+
+# Objectives
