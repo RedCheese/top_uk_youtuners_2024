@@ -87,3 +87,15 @@ Some of the data visuals that may be appropriated in answering our questions inc
 4. Horizontal Bar chart
 
 ![Dashboard-Mockup](assets/images/dashboard_mockup.png)
+
+## Tools
+
+| Tool | Purpose |
+| --- | --- |
+| Excel | Exploring the Data |
+| Jupyter Python | Cleaning, testing and analysing the data |
+| Power BI | Visualizing the data via interactive dashboard |
+| Github | Hosting the project documentation and version control |
+| Inkscape | Designing the mockup of the dashboard |
+
+# Development
