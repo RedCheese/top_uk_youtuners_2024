@@ -99,3 +99,21 @@ Some of the data visuals that may be appropriated in answering our questions inc
 | Inkscape | Designing the mockup of the dashboard |
 
 # Development
+
+## Psseudocode
+
+- Whats the general approach in creating this solution from start to finish?
+
+1. Get the data
+2. Explore the data in Excel
+3. Import the data to the Jupyter Notebook
+4. Turn the table into a dataframe
+5. Clean the data with Python
+6. Test the data with Python
+7. Visualize the data in Power BI
+8. Generate the findings based on the insights
+9. Write the documentation+commentary
+10. Publish the data on Github Pages
+
+## Data Exploration Notes
+This si the stage
