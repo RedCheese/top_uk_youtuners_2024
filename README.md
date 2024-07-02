@@ -116,4 +116,12 @@ Some of the data visuals that may be appropriated in answering our questions inc
 10. Publish the data on Github Pages
 
 ## Data Exploration Notes
-This si the stage
+This is the stage where you have a scan of whats in the data, errors, inconsistencies, bugs, strange and corrupted characters, etc.
+- What are your initial observations with this data? What's caught your attention so far?
+
+1. There are at least 4 columns that constains the data that we need for this analysis, which signals we have everything we need without contacting the client for any more data
+2. The first column contains the channel ID snapped to the channel name. We will need to extract the channel name from this into its own collumn
+3. Some of these cells and headers are in a different language, so we need to confirm if these columns we require, if so, we will need to adress them
+4. We have more than enough data, so we will need to delete columns that aren't relevant for us
+
+## Data Cleaning
