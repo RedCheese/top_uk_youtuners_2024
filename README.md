@@ -100,7 +100,7 @@ Some of the data visuals that may be appropriated in answering our questions inc
 
 # Development
 
-## Psseudocode
+## Pseudocode
 
 - Whats the general approach in creating this solution from start to finish?
 
@@ -125,3 +125,21 @@ This is the stage where you have a scan of whats in the data, errors, inconsiste
 4. We have more than enough data, so we will need to delete columns that aren't relevant for us
 
 ## Data Cleaning
+
+- What do we expect the clean data to look like? What should it contain? What constraints we should apply to it?
+
+The aim is to refine the database to ensure it is structured and sued for analysis
+
+The cleaned data should meet the following criteria and constraints:
+- Only relevant columns should be retained
+- All data types should be apropriate for the contents of each column
+- No columns should contain null values, indicating complete data for all records
+
+Bellow is a table containning the constraints on our cleaned data
+
+| Property | Description |
+| --- | --- |
+| Number of Rows | 100 |
+Number of Columns | 4 |
+
+And here is a tabular representing the expected schema of our cleaned data
