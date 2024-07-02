@@ -143,3 +143,18 @@ Bellow is a table containning the constraints on our cleaned data
 Number of Columns | 4 |
 
 And here is a tabular representing the expected schema of our cleaned data
+
+| Column Name | Data Type | Nullable |
+| --- | --- | --- |
+| channel_name | VARCHAR | NO|
+| total_subscribers | INTEGER | NO |
+| total_views | INTEGER | NO |
+| total_videos | INTEGER | NO |
+
+- What steps are needed to clean and shape the data into the desired format?
+
+1. Remove unecessary coumns
+2. Extract youtube channel from the first column
+3. Rename column ehaders using aliases
+
+## Transform the Data
