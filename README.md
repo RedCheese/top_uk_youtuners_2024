@@ -411,3 +411,10 @@ For this analysis we're going to focus on the questions bellow to get the inform
 | 3 | Dua Lipa | 104,954.95 |
 
 ### Notes
+
+For this analysis, we'll prioritize analysing the metrics that are important in generating the expected ROI for our marketing client, which are the Youtube channels with the most:
+- subscribers
+- total views
+- videos uploaded
+
+## Validation
