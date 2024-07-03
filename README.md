@@ -386,4 +386,28 @@ For this analysis we're going to focus on the questions bellow to get the inform
 | 2 | Dan Rhodes | 18.56 |
 | 3 | Mister Max | 15.97 |
 
+### 4. Which 3 channels have the highest average views per video?
 
+| Rank | Channel Name | Average Views per Video (M) |
+| --- | --- | --- |
+| 1 | Mark Ronson | 37.27 |
+| 2 | Jessie J | 5.97 |
+| 3 | Dua Lipa | 5.76 |
+
+### 5. Which 3 channels have the highest views per subscriber ratio?
+
+| Rank | Channel Name | Views per Subscriber |
+| --- | --- | --- |
+| 1 | GRM Daily | 1185.79 |
+| 2 | Nickelodeon | 1061.04 |
+| 3 | Disney Junior UK | 1031.97 |
+
+### 5. Which 3 channels have the highest subscriber engagement rate per video uploaded?
+
+| Rank | Channel Name | Subscriber Engagement Rate |
+| --- | --- | --- |
+| 1 | Mark Ronson | 343.000 |
+| 2 | Jessie J | 110,416.67 |
+| 3 | Dua Lipa | 104,954.95 |
+
+### Notes
