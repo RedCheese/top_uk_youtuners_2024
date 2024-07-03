@@ -240,3 +240,26 @@ df2.to_excel(file_name)
 print('DataFrame is written to Excel File successfully.')
 
 ```
+
+# Testing
+
+- What data qualtiy and validation checks are you going to create?
+
+Here are the data quality checks
+
+## Row and Column Count Check
+
+```python
+import pandas as pd
+df = pd.read_excel(r'C:\Users\User\Documents\Data Analyst Bootcamp\Projects\Top 100 Social Media Influencers\view_uk_youtubers_2024.xlsx')
+df
+```
+INSERT IMAGE HERE
+
+## Data Type Check
+```python
+df.info()
+```
+INSERT IMAGE HERE
+
+
