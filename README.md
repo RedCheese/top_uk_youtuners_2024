@@ -370,4 +370,20 @@ For this analysis we're going to focus on the questions bellow to get the inform
 | 9 | Sidemen | 21.00 |
 | 10 | Ali-A | 18.90 |
 
-### 2. Which 3 Channels uploaded the msot amount of videos?
+### 2. Which 3 Channels uploaded the most amount of videos?
+
+| Rank | Channel Name | Videos Uploaded |
+| --- | --- | --- |
+| 1 | GRM Daily | 14.696 |
+| 2 | Manchester City | 8.248 |
+| 3 | Yogscast | 6.435 |
+
+### 3. Which 3 channels have the most views?
+
+| Rank | Channel Name | Total Views (B) |
+| --- | --- | --- |
+| 1 | DanTDM | 19.78 |
+| 2 | Dan Rhodes | 18.56 |
+| 3 | Mister Max | 15.97 |
+
+
