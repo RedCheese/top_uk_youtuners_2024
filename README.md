@@ -262,4 +262,13 @@ df.info()
 ```
 INSERT IMAGE HERE
 
+## Duplicate Records Check
 
+```python
+#identify duplicate rows
+duplicateRows = df[df.duplicated(keep='last')]
+print(duplicateRows)
+```
+INSERT IMAGE HERE
+
+# Visualization
