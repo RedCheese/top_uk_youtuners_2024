@@ -423,7 +423,7 @@ For this analysis, we'll prioritize analysing the metrics that are important in 
 #### Calculation Breakdown
 Campaign idea - product placement
 
-#####NoCopyrightSounds
+### NoCopyrightSounds
 - Average views per Video - 6.92 million
 - Product Cost - $5
 - Potential Units sold per video 6.92 million x 2% conversion rate - 138,400 units sold
@@ -431,7 +431,7 @@ Campaign idea - product placement
 - Campaign Cost(one time fee) - $50,000
 - **Net profit - $692,000 - $50,000 = $642,000**
 
-#####DanTDM
+### DanTDM
 - Average views per Video - 5.34 million
 - Product Cost - $5
 - Potential Units sold per video 5.34 million x 2% conversion rate - 106,800 units sold
@@ -439,7 +439,7 @@ Campaign idea - product placement
 - Campaign Cost(one time fee) - $50,000
 - **Net profit - $534,000 - $50,000 = $484,000**
 
-#####Dan Rhodes
+### Dan Rhodes
 - Average views per Video - 11.15 million
 - Product Cost - $5
 - Potential Units sold per video 11.15 million x 2% conversion rate - 223,000 units sold
@@ -448,3 +448,13 @@ Campaign idea - product placement
 - **Net profit - $1115,000 - $50,000 = $1,065,000**
 
 Best Option from category - Dan Rhodes
+
+
+We discovered that
+1. NoCopyrightSounds, DanTDM and Dan Rhodes are the top 3 channels with msot subscriebrs in the UK
+2. GRM Daily, Manchester City and Yogcast are the channels with the most videos uploaded
+3. DanTDM, Dan Rhodes and Mister Max are the channels with the most views
+4. Entertainment channels are sueful for broad appeal, as the channels postign consistently on their platforms and generating the most engagement are focus on enterteinment and music
+
+
+# Recommendation
