@@ -422,3 +422,29 @@ For this analysis, we'll prioritize analysing the metrics that are important in 
 ### 1. Youtubers with the most subscribers
 #### Calculation Breakdown
 Campaign idea - product placement
+
+#####NoCopyrightSounds
+- Average views per Video - 6.92 million
+- Product Cost - $5
+- Potential Units sold per video 6.92 million x 2% conversion rate - 138,400 units sold
+- Potential Revenu per video - 138,400 x $5 = $692,000
+- Campaign Cost(one time fee) - $50,000
+- **Net profit - $692,000 - $50,000 = $642,000**
+
+#####DanTDM
+- Average views per Video - 5.34 million
+- Product Cost - $5
+- Potential Units sold per video 5.34 million x 2% conversion rate - 106,800 units sold
+- Potential Revenu per video - 105,800 x $5 = $534,000
+- Campaign Cost(one time fee) - $50,000
+- **Net profit - $534,000 - $50,000 = $484,000**
+
+#####Dan Rhodes
+- Average views per Video - 11.15 million
+- Product Cost - $5
+- Potential Units sold per video 11.15 million x 2% conversion rate - 223,000 units sold
+- Potential Revenu per video - 223,000 x $5 = $1,115,000
+- Campaign Cost(one time fee) - $50,000
+- **Net profit - $1115,000 - $50,000 = $1,065,000**
+
+Best Option from category - Dan Rhodes
