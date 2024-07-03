@@ -457,4 +457,20 @@ We discovered that
 4. Entertainment channels are sueful for broad appeal, as the channels postign consistently on their platforms and generating the most engagement are focus on enterteinment and music
 
 
-# Recommendation
+# Recommendations
+
+1. Dan Rhodes is the best youtube channel to collaborate with if we want maximize visibility due to this channel having the best rate consireding subscriber and views numbers.
+2. Altough GRM Daily, Masnchester City and Yogast has the highest video count, its worth considering if whethere collaborating with them is worth the effort with current budget caps as they have far lower engagement and therefore lower return on investments.
+3. The top 3 channels to collaborate with are the oens with most subscribers, therefore more engagement results in potential more return in investment.
+
+## Potential ROI
+
+- WhatROI do we expect if we take this course of action?
+
+1. Setting up a collaboration deal with Dan rhodes can pottentially yield a new profit of $1,065,000 per video
+2. If we got a product placement campaign with DanTDM, we could generate the client aproximately $484,000 per video.
+3. Making a collaboration with NoCopySounds is worth considering as it could pottentially profit the client with $642,000 per video.
+
+## Potential Coursers of Plan
+
+
