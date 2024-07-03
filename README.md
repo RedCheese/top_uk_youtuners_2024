@@ -343,5 +343,18 @@ RETURN viewsPerSubscriber
 
 # Analysis
 
+## Findings
+- What did we find?
+
+For this analysis we're going to focus on the questions bellow to get the information we need for our marketing client:
+
+1. Who are the top 10 Youtubers with most susbcribers?
+2. Which 3 Channels uploaded the msot amount of videos?
+3. Which 3 channels have the most views?
+4. Which 3 channels have the highest average views per video?
+5. Which 3 channels have the highest views per subscriber ratio?
+6. Which 3 channels have the highest subscriber engagement rate prr video uploaded?
+
+### 1. Who are the top 10 Youtubers with most susbcribers?
 
 
