@@ -272,3 +272,14 @@ print(duplicateRows)
 ![Duplicates-Check](assets/images/duplicates_check.png)
 
 # Visualization
+
+## Results
+- What does the dashboard look like?
+
+![Dashboard](assets/images/image16.png)
+
+This show the top UK Youtubers in 2024 so far
+
+## DAX Measures
+
+### 1. Total Susbcribers
