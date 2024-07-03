@@ -254,13 +254,13 @@ import pandas as pd
 df = pd.read_excel(r'C:\Users\User\Documents\Data Analyst Bootcamp\Projects\Top 100 Social Media Influencers\view_uk_youtubers_2024.xlsx')
 df
 ```
-INSERT IMAGE HERE
+![Row-Column-Count](assets/images/row_column_count.png)
 
 ## Data Type Check
 ```python
 df.info()
 ```
-INSERT IMAGE HERE
+![Data-Type-Check](assets/images/datatype_check.png)
 
 ## Duplicate Records Check
 
@@ -269,6 +269,6 @@ INSERT IMAGE HERE
 duplicateRows = df[df.duplicated(keep='last')]
 print(duplicateRows)
 ```
-INSERT IMAGE HERE
+![Duplicates-Check](assets/images/duplicates_check.png)
 
 # Visualization
