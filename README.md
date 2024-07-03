@@ -402,11 +402,11 @@ For this analysis we're going to focus on the questions bellow to get the inform
 | 2 | Nickelodeon | 1061.04 |
 | 3 | Disney Junior UK | 1031.97 |
 
-### 5. Which 3 channels have the highest subscriber engagement rate per video uploaded?
+### 6. Which 3 channels have the highest subscriber engagement rate per video uploaded?
 
 | Rank | Channel Name | Subscriber Engagement Rate |
 | --- | --- | --- |
-| 1 | Mark Ronson | 343.000 |
+| 1 | Mark Ronson | 343,000.00 |
 | 2 | Jessie J | 110,416.67 |
 | 3 | Dua Lipa | 104,954.95 |
 
@@ -418,3 +418,7 @@ For this analysis, we'll prioritize analysing the metrics that are important in 
 - videos uploaded
 
 ## Validation
+
+### 1. Youtubers with the most subscribers
+#### Calculation Breakdown
+Campaign idea - product placement
