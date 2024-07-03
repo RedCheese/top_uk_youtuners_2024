@@ -467,10 +467,23 @@ We discovered that
 
 - WhatROI do we expect if we take this course of action?
 
-1. Setting up a collaboration deal with Dan rhodes can pottentially yield a new profit of $1,065,000 per video
+1. Setting up a collaboration deal with Dan Rhodes can pottentially yield a new profit of $1,065,000 per video
 2. If we got a product placement campaign with DanTDM, we could generate the client aproximately $484,000 per video.
 3. Making a collaboration with NoCopySounds is worth considering as it could pottentially profit the client with $642,000 per video.
 
 ## Potential Coursers of Plan
+
+- What coruse of action we should take and why?
+
+Based on our analysis, we believe the best channel to advance to a long-term patnership deal with to promote the client's products is the Dan Rhodes channel.
+
+We'll have conversations with the marketing team to forecast what they also expect from this collaboration. Once we observe we're hitting  the expected milestones, we'll advance with potential patnerships with other channels like DanTDM, NoCOpyrightSOudns and others simillar.
+
+- What steps do we take to implement the recommended decisions effectively?
+
+1. Reach out with the teams behind the Dan Rhodes channel and others.
+2. Negotiate contracts within the budgets allocated to each marketting team.
+3. Kick the campaigns and track each of their performences against the KPIs
+4. Review how the campaigns have gone, gather insights and optimize based on feedback from converted customers and each channel's audiance
 
 
