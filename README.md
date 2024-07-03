@@ -158,3 +158,85 @@ And here is a tabular representing the expected schema of our cleaned data
 3. Rename column ehaders using aliases
 
 ## Transform the Data
+
+```python
+# Importing the table into python
+import pandas as pd
+df = pd.read_csv(r'C:\Users\User\Documents\Data Analyst Bootcamp\Projects\Top 100 Social Media Influencers\youtube_data_from_python.csv')
+
+# Function to determine the size of the stack
+def createStack():
+    stack = []
+    return stack
+ 
+# Stack is empty if the size is 0
+def size(stack):
+    return len(stack)
+ 
+    
+# Function to add an item to stack .
+# It increases size by 1 
+def isEmpty(stack):
+    if size(stack) == 0:
+        return True
+ 
+ 
+# Function to remove an item from stack.
+# It decreases size by 1
+def push(stack, item):
+    stack.append(item)
+ 
+
+def pop(stack):
+    if isEmpty(stack):
+        return
+    return stack.pop()
+
+# Function to extract the name portion
+def extractName(string):
+    n = len(string)
+ 
+    # Create a empty stack
+    stack = createStack()
+ 
+    # Push all characters of string to stack
+    for i in range(0, n, 1):
+        push(stack, string[i])
+ 
+    # Making the string empty since all characters are saved in stack
+    string = ""
+ 
+    # Pop all characters of string and put them back to string
+    for i in range(0, 26, 1):
+        string += pop(stack)
+        if string[i] == '@':
+            break
+        
+    name = ''.join(map(str, stack))
+ 
+    return name
+
+# Calling the function and inaerting the result as a new column
+nameArray = []
+
+for i in df['NOMBRE']:
+    nameArray.append(extractName(i))
+
+df.insert(2, "name", nameArray, True)
+```
+
+## Creating the final dataframe in Python
+
+```python
+# Filtering so we only have the desired columns
+df2 = df.filter(items = ['name', 'total_subscribers', 'total_views', 'total_videos'])
+
+# Exporting the dataframe as an excel table
+# determining the name of the file
+file_name = 'view_uk_youtubers_2024.xlsx'
+ 
+# saving the excel
+df2.to_excel(file_name)
+print('DataFrame is written to Excel File successfully.')
+
+```
